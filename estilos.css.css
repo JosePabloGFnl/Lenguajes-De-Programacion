@@ -1,0 +1,19 @@
+p{
+  color: green;
+}
+/*
+Así se ponen comentarios en los archivos css
+*/
+.kwcolor{
+  color:red;
+  background:yellow;
+}
+.hxdecimal{
+  color:#ff0000;
+}
+.colorrgb{
+  color:rgb(225,90,70);
+}
+.colorrgba{
+  color:rgba(0,0,255,.4);
+}

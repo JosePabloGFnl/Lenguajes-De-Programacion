@@ -1,0 +1,10 @@
+body{
+
+  background-image:url(../imágenes/kyoto.jpg);
+  /*punto punto es para que salga y entre a la carpeta "imágenes"*/
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-attachment:fixed;
+  background-size:cover;
+  background-color:yellow;
+}
